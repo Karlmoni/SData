@@ -1,2 +1,2 @@
 # SData
-Siencia de datos
+Ciencia de datos
